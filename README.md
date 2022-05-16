@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This is a simple project I started on 15-May-2022 following instructions from the *free* and *open source* learning community called **[The Odin Project](https://www.theodinproject.com)** to practice the foundations of web develompent.  
+This is a simple project I started on 15 May, 2022 following instructions from the *free* and *open source* learning community called **[The Odin Project](https://www.theodinproject.com)** to practice the foundations of web develompent.  
 
 ## Objective
 
@@ -18,5 +18,5 @@ As I learn more from the lessons, I may revisit this project to add more element
 
 I am grateful for the people at **[The Odin Project](https://www.theodinproject.com)** and I really encourage anyone interested in learning web development to visit the community! 
 
-*Milo Dubois*  
+*Milo*  
 16 May, 2022  
