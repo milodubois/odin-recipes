@@ -5,8 +5,12 @@
 }
 
 img {
-    height: 500px;
+    height: 250px;
     width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
 }
 
 h1 {
