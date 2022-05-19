@@ -9,13 +9,19 @@ img {
     width: auto;
 }
 
-h1,
+h1 {
+    color: darkslategrey;
+    font-family: 'Segoe UI', 'DejaVu Sans', sans-serif;
+    text-align: center;
+}
+
 h2,
 h3,
 h4,
 h5 {
     font-family: "Times New Roman", serif;
     color: #002b3696;
+    text-align: center;
 }
 
 ul, li {
