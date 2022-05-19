@@ -1,0 +1,27 @@
+* {
+    font-family: "DejaVu Sans", sans-serif;
+    background-color: white;
+    color: black;
+}
+
+img {
+    height: 500px;
+    width: auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: "Times New Roman", serif;
+    color: #002b3696;
+}
+
+ul, li {
+    color: #002b3696;
+}
+
+a {
+    color:darkslategrey
+}
