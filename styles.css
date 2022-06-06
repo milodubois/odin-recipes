@@ -1,5 +1,41 @@
 * {
     font-family: "DejaVu Sans", sans-serif;
+}
+
+body {
+    background: #eee;
+}
+
+.fc1c,
+.fc2c {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 8px 4px;
+}
+
+
+.fc1c div,
+.fc2c div {
+    /* background: aliceblue; */
+    border: 3px solid white;
+    padding: 4px 8px;
+    margin: 2px 8px;
+    flex: 1 1 auto;
+}
+
+.fc1c div {
+    background:lightyellow;
+    color: black;
+}
+
+.fc2c-1 {
+    background-color:azure;
+    color: black;
+}
+
+.fc2c-2 {
+    background-color:aliceblue;
     color: black;
 }
 
@@ -11,6 +47,7 @@ img {
     margin-right: auto; 
 }
 
+ 
 h1 {
     color: darkslategrey;
     font-family: 'Segoe UI', 'DejaVu Sans', sans-serif;
@@ -51,18 +88,19 @@ a {
     color:darkslategrey
 }
 
-.heading {
+
+
+/* .heading {
     /* background-color:lightgrey;
     color: black; */
-    padding:10px;
+    /*padding:10px;
     margin: 0px;
     border: 5px;
     /* border-color: darkslategray;
     border-style: solid; */
 
-}
 
-.about {
+/*.about {
     background-color: lightgrey;
     color: black;
     padding:10px;
@@ -70,18 +108,19 @@ a {
     border: 5px;
     border-style: solid;
     border-color: darkslategray;
-}
+}*/
 
-.footer {
+/*.footer {
     /* background-color:lightyellow;
     color: black; */
-    margin: 0px;
+    /*margin: 0px;
     padding: 10px;
     border: 5px;
     /* border-color: darkslategray;
     border-style: solid; */
-}
 
-em {
+
+/*em {
     color:darkslategray;
 }
+*/
