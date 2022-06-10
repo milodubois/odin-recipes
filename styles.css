@@ -25,7 +25,7 @@ body {
 }
 
 .fc1c div {
-    background:lightyellow;
+    background:rgb(191, 230, 255);
     color: black;
 }
 
@@ -107,7 +107,7 @@ a {
     font-size: x-large;
     font-weight: 700;
     color: darkslategrey;
-    padding: 4px 32px;
+    padding: 4px;
     background: white;
 }
 
